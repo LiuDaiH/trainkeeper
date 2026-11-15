@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+*.egg
+
+# Environments
+.venv/
+venv/
+.env
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# trainkeeper runtime artifacts (never commit run state)
+.tkruns/
+
+# Editors
+.idea/
+.vscode/
+*.swp
+.DS_Store
